@@ -1,0 +1,51 @@
+    <mj-raw>
+      <!-- Footer-->
+    </mj-raw>
+    <mj-section background-color="black">
+      <mj-column>
+        <mj-image padding="25px 0 0 0" href="https://www.planetfitness.com" src="http://127.0.0.1:5500/assets/pf-logo.png" alt="Planet Fitness Picture" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="black">
+      <mj-column>
+        <mj-text>
+        <hr class="my-line" />
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Footer icons-->
+    </mj-raw>
+    <mj-section background-color="black">
+      <mj-column>
+        <mj-image width="35px" href="https://www.planetfitness.com" src="http://127.0.0.1:5500/assets/icon/fb-logo-pf.png" alt=" Facebook" />
+      </mj-column>
+      <mj-column>
+        <mj-image width="35px" href="https://www.planetfitness.com" src="http://127.0.0.1:5500/assets/icon/insta-logo-pf.png" alt="Instagram" />
+      </mj-column>
+      <mj-column>
+        <mj-image width="35px" href="https://www.planetfitness.com" src="http://127.0.0.1:5500/assets/icon/music-logo-pf.png" alt="music logo" />
+      </mj-column>
+      <mj-column>
+        <mj-image width="35px" href="https://www.planetfitness.com" src="http://127.0.0.1:5500/assets/icon/yt-logo-pf.png" alt="Youtube" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="black" padding="0">
+      <mj-column>
+        <mj-text align="center" color="white" font-size="12px" line-height="1.5">
+          This is an advertisement.
+          <br /><br />
+          ©2025 Planet Fitness Franchising LLC, All rights reserved.<br />
+          4 Liberty Lane West, Floor 2, Hampton, NH 03842, United States
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Links-->
+    </mj-raw>
+    <mj-section background-color="black" padding="10px 25px 25px 25px">
+      <mj-column padding="0">
+        <mj-text color="white" font-size="10px" align="center"> <a style="color:#ffffff;" href="https://www.planetfitness.com"> My Account</a> | <a style="color:#ffffff;" href="https://www.planetfitness.com"> My Perks</a> | <a style="color:#ffffff;" href="https://www.planetfitness.com"> Refer a Friend</a> </mj-text>
+        <mj-text color="white"  font-size="10px" align="center"> <a style="color:#ffffff;" href="https://www.planetfitness.com"> Contact Us</a> | <a style="color:#ffffff;" href="https://www.planetfitness.com"> My Privacy</a> | <a style="color:#ffffff;"href="https://www.planetfitness.com"> Unsubscribe</a> </mj-text>
+      </mj-column>
+    </mj-section>

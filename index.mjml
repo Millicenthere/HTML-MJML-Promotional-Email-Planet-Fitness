@@ -1,0 +1,63 @@
+<mjml>
+  <mj-head>
+     <mj-style>
+        a { 
+            text-decoration: none; color: inherit; 
+        }
+        .my-line {
+            border: none; /* Remove default border */
+            border-top: 2px solid #ccc; /* Add a top border for the line */
+            margin: 20px 0; /* Add some vertical spacing */
+             width: 100%; /* Set a custom width */
+            background-color: transparent; /* Ensure no background color interferes */
+        }
+     </mj-style>
+    <mj-title>Big Saving On Brands You Love</mj-title>
+    <mj-preview>Big Saving On Brands You Love</mj-preview>
+    <mj-attributes>
+      <mj-all font-family="Arial, sans-serif" />
+      <mj-section padding="0px" />
+      <mj-column padding="0px" />
+    </mj-attributes>
+    <mj-style> * { box-sizing: border-box; } </mj-style>
+  </mj-head>
+  <mj-body background-color="#ffffffff">
+    <mj-raw>
+      <!--Top Section-->
+    </mj-raw>
+    <mj-section>
+      <mj-column>
+        <mj-image href="https://www.planetfitness.com" src="http://127.0.0.1:5500/assets/purple-pf.png" alt="Planet Fitness Logo" width="50px" align="left" padding="5px 15px" />
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image href="https://www.planetfitness.com" src="http://127.0.0.1:5500/assets/banner-score.png" alt="exclusive savings" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column padding="15px">
+        <mj-text font-size="32px" color="#000000" font-weight="bold" align="left"> GET STEEPER DISCOUNTS </mj-text>
+        <mj-text font-size="14px" line-height="1.5" color="#000000" align="left">
+          We've partnered with top-notch brands to bring you discounts on brands you love. Whether you're treating yourself to some well-deserved retail therapy or snagging the perfect gift, we've got you covered in the PF App!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Middle Section-->
+    </mj-raw>
+    <mj-section background-color="rgb(87, 20, 151)">
+      <mj-column>
+        <mj-text padding="25px 25px 15px" color="white" font-weight="bold" font-size="35px">HOW TO START ENJOYING YOUR PERKS: </mj-text>
+        <mj-image padding="0" href="https://www.planetfitness.com" src="http://127.0.0.1:5500/assets/steps-pf.png" alt="Planet Fitness" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-image padding="30px 30px 25px" href="https://www.planetfitness.com" src="http://127.0.0.1:5500/assets/upnext-pf.png" alt="Planet Fitness Picture" />
+        <mj-text color="black" font-weight="normal" font-size="17px" padding="0 30px 30px">Did you know there's a whole community out there to support you in your fitness journey? We'll tell you about it next. </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-include path="./components/footer.mjml" />
+  </mj-body>
+</mjml>
