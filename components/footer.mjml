@@ -24,7 +24,7 @@
         <mj-image width="35px" href="https://www.planetfitness.com" src="https://github.com/Millicenthere/HTML-MJML-Promotional-Email-Planet-Fitness/blob/main/assets/Production/insta-logo-pf.jpg?raw=true" alt="Instagram" />
       </mj-column>
       <mj-column>
-        <mj-image width="35px" href="https://www.planetfitness.com" src="https://github.com/Millicenthere/HTML-MJML-Promotional-Email-Planet-Fitness/blob/main/assets/Production/music-logo-pf.jpg?raw=true" alt="music logo" />
+        <mj-image width="35px" href="https://www.planetfitness.com" src="https://raw.githubusercontent.com/Millicenthere/HTML-MJML-Promotional-Email-Planet-Fitness/refs/heads/main/assets/Production/music-logo-pf.jpg" alt="music logo" />
       </mj-column>
       <mj-column>
         <mj-image width="35px" href="https://www.planetfitness.com" src="https://github.com/Millicenthere/HTML-MJML-Promotional-Email-Planet-Fitness/blob/main/assets/Production/yt-logo-pf.jpg?raw=true" alt="Youtube" />
