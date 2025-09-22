@@ -32,7 +32,7 @@
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-image href="https://www.planetfitness.com" src="https://github.com/Millicenthere/HTML-MJML-Promotional-Email-Planet-Fitness/blob/main/assets/Production/banner-score.jpg?raw=true" alt="exclusive savings" padding="0" />
+        <mj-image href="https://www.planetfitness.com" src="https://github.com/Millicenthere/HTML-MJML-Promotional-Email-Planet-Fitness/blob/main/assets/Production/banner-score.png?raw=true?" alt="exclusive savings" padding="0" />
       </mj-column>
     </mj-section>
     <mj-section>
