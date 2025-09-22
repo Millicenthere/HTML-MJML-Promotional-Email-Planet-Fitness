@@ -3,7 +3,7 @@
     </mj-raw>
     <mj-section background-color="black">
       <mj-column>
-        <mj-image padding="25px 0 0 0" href="https://www.planetfitness.com" src="https://github.com/Millicenthere/HTML-MJML-Promotional-Email-Planet-Fitness/blob/main/assets/Production/pf-logo.jpg?raw=true" alt="Planet Fitness Picture" />
+        <mj-image padding="25px 0 0 0" href="https://www.planetfitness.com" src="https://github.com/Millicenthere/HTML-MJML-Promotional-Email-Planet-Fitness/blob/main/assets/Production/pf-logo.png?raw=true" alt="Planet Fitness Picture" />
       </mj-column>
     </mj-section>
     <mj-section background-color="black">
@@ -18,16 +18,16 @@
     </mj-raw>
     <mj-section background-color="black">
       <mj-column>
-        <mj-image width="35px" href="https://www.planetfitness.com" src="https://github.com/Millicenthere/HTML-MJML-Promotional-Email-Planet-Fitness/blob/main/assets/Production/fb-logo-pf.jpg?raw=true" alt=" Facebook" />
+        <mj-image width="35px" href="https://www.planetfitness.com" src="https://github.com/Millicenthere/HTML-MJML-Promotional-Email-Planet-Fitness/blob/main/assets/Production/fb-logo-pf.png?raw=true" alt=" Facebook" />
       </mj-column>
       <mj-column>
-        <mj-image width="35px" href="https://www.planetfitness.com" src="https://github.com/Millicenthere/HTML-MJML-Promotional-Email-Planet-Fitness/blob/main/assets/Production/insta-logo-pf.jpg?raw=true" alt="Instagram" />
+        <mj-image width="35px" href="https://www.planetfitness.com" src="https://github.com/Millicenthere/HTML-MJML-Promotional-Email-Planet-Fitness/blob/main/assets/Production/insta-logo-pf.png?raw=true" alt="Instagram" />
       </mj-column>
       <mj-column>
-        <mj-image width="35px" href="https://www.planetfitness.com" src="https://raw.githubusercontent.com/Millicenthere/HTML-MJML-Promotional-Email-Planet-Fitness/refs/heads/main/assets/Production/music-logo-pf.jpg" alt="music logo" />
+        <mj-image width="35px" href="https://www.planetfitness.com" src="https://github.com/Millicenthere/HTML-MJML-Promotional-Email-Planet-Fitness/blob/main/assets/Production/music-logo-pf.png?raw=true" alt="music logo" />
       </mj-column>
       <mj-column>
-        <mj-image width="35px" href="https://www.planetfitness.com" src="https://github.com/Millicenthere/HTML-MJML-Promotional-Email-Planet-Fitness/blob/main/assets/Production/yt-logo-pf.jpg?raw=true" alt="Youtube" />
+        <mj-image width="35px" href="https://www.planetfitness.com" src="https://github.com/Millicenthere/HTML-MJML-Promotional-Email-Planet-Fitness/blob/main/assets/Production/yt-logo-pf.png?raw=true" alt="Youtube" />
       </mj-column>
     </mj-section>
     <mj-section background-color="black" padding="0">
