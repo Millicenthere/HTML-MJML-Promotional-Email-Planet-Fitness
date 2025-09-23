@@ -27,12 +27,13 @@
     </mj-raw>
     <mj-section>
       <mj-column>
-        <mj-image href="https://www.planetfitness.com" src="https://i.imgur.com/iGqFj8Z.png" alt="Planet Fitness Logo" width="50px" align="left" padding="5px 15px" />
+        <mj-image href="https://www.planetfitness.com" src="https://github.com/Millicenthere/HTML-MJML-Promotional-Email-Planet-Fitness/blob/main/assets/Production/purple-pf.png?raw=true" alt="Planet Fitness Logo" width="50px" align="left" padding="5px 15px" />
+
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-image href="https://i.imgur.com/n6gsBeQ.png" alt="exclusive savings" padding="0" />
+        <mj-image href="https://www.planetfitness.com" src="https://github.com/Millicenthere/HTML-MJML-Promotional-Email-Planet-Fitness/blob/main/assets/Production/banner-score.png?raw=true" alt="exclusive savings" padding="0" />
       </mj-column>
     </mj-section>
     <mj-section>
@@ -49,12 +50,12 @@
     <mj-section background-color="rgb(87, 20, 151)">
       <mj-column>
         <mj-text padding="25px 25px 15px" color="white" font-weight="bold" font-size="35px">HOW TO START ENJOYING YOUR PERKS: </mj-text>
-        <mj-image padding="0" href="https://www.planetfitness.com" src="https://i.imgur.com/rlFFV6X.png" alt="Planet Fitness" />
+        <mj-image padding="0" href="https://www.planetfitness.com" src="https://github.com/Millicenthere/HTML-MJML-Promotional-Email-Planet-Fitness/blob/main/assets/Production/steps-pf.png?raw=true" alt="Planet Fitness" />
       </mj-column>
     </mj-section>
     <mj-section background-color="white">
       <mj-column>
-        <mj-image padding="30px 30px 25px" href="https://www.planetfitness.com" src="https://i.imgur.com/rlFFV6X.png" alt="Planet Fitness Picture" />
+        <mj-image padding="30px 30px 25px" href="https://www.planetfitness.com" src="https://github.com/Millicenthere/HTML-MJML-Promotional-Email-Planet-Fitness/blob/main/assets/Production/upnext-pf.png?raw=true" alt="Planet Fitness Picture" />
         <mj-text color="black" font-weight="normal" font-size="17px" padding="0 30px 30px">Did you know there's a whole community out there to support you in your fitness journey? We'll tell you about it next. </mj-text>
       </mj-column>
     </mj-section>
