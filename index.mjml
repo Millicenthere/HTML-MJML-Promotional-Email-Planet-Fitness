@@ -18,7 +18,6 @@
       <mj-all font-family="Arial, sans-serif" />
       <mj-section padding="0px" />
       <mj-column padding="0px" />
-      <mj-image html-attributes='{"role": "presentation"}' />
     </mj-attributes>
     <mj-style> * { box-sizing: border-box; } </mj-style>
   </mj-head>
@@ -28,7 +27,7 @@
     </mj-raw>
     <mj-section>
       <mj-column>
-        <mj-image href="https://www.planetfitness.com" src="https://github.com/Millicenthere/HTML-MJML-Promotional-Email-Planet-Fitness/blob/main/assets/Production/purple-pf.png?raw=true" alt="Planet Fitness Logo" width="50px" align="left" padding="5px 15px" />
+        <mj-image href="https://www.planetfitness.com" src="assets\Production\purple-pf.png" alt="Planet Fitness Logo" width="50px" align="left" padding="5px 15px" />
 
       </mj-column>
     </mj-section>
