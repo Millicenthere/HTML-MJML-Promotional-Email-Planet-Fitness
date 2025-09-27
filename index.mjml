@@ -18,6 +18,7 @@
       <mj-all font-family="Arial, sans-serif" />
       <mj-section padding="0px" />
       <mj-column padding="0px" />
+      <mj-image html-attributes='{"role": "presentation"}' />
     </mj-attributes>
     <mj-style> * { box-sizing: border-box; } </mj-style>
   </mj-head>
